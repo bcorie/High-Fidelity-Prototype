@@ -1,5 +1,5 @@
 # High Fidelity Prototype
-After quick research done to conclude the myCourses calendar needed work, I designed new functionalities and appearances for different components of the website. This process included planning with a Lo-Fi prototype which is included in this repo among other documents detailed below. A link to the prototype is included in the repository details.
+After research done to conclude the myCourses calendar needed work, I designed new functionalities and appearances for different components of the website. This process included planning with a Lo-Fi prototype which is included in this repo among other documents detailed below. A link to the prototype is included in the repository details.
 
 ## Proposal
 Initail planning and research. Includes comments on what was going to be changed and why.
